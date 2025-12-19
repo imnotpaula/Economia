@@ -1,0 +1,45 @@
+---
+title: "Portal de Economia"
+---
+
+![](imagens/macro.jpg)
+
+## Últimas Notícias de Macroeconomia
+
+### [Congresso pauta Orçamento de 2026](macroeconomia.qmd)
+
+Resumo curto da notícia.
+
+### [Inflação desacelera no último trimestre](macroeconomia.qmd)
+
+Resumo curto da notícia.
+
+------------------------------------------------------------------------
+
+## Seções
+
+::::: grid
+::: card
+### 📊 Macroeconomia
+
+Análises sobre PIB, inflação e política fiscal.\
+[Leia mais →](macroeconomia.qmd)
+:::
+
+::: card
+### 🏛️ Política
+
+Decisões do Congresso e impacto econômico.\
+[Leia mais →](politica.qmd)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+:::: columns
+::: {.column width="70%"}
+**Microeconomia**
+
+blablablabla
+:::
+::::

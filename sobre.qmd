@@ -1,0 +1,5 @@
+---
+title: "Quem somos?"
+---
+
+Este site foi desenvolvido como projeto acadêmico utilizando **Quarto** e **R**.
