@@ -2,6 +2,16 @@
 title: "Índices"
 ---
 
-## Política Econômica
+## Atualizações semanais(?) dos seguintes indices
 
-Discussões sobre decisões do Congresso, governo e impacto econômico.
+ibc-br;desemprego; piri poro
+
+## Últimas Notícias de Macroeconomia
+
+### [Congresso pauta Orçamento de 2026](macroeconomia.qmd)
+
+Resumo curto da notícia.
+
+### [Inflação desacelera no último trimestre](macroeconomia.qmd)
+
+Resumo curto da notícia.

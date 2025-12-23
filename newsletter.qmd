@@ -2,12 +2,24 @@
 title: "Newsletter"
 ---
 
-## Últimas notícias
+## Newsletter
 
-### Congresso pauta Orçamento de 2026
+resumo sobre o que é
 
-Texto da notícia aqui.
+### Seções
 
-### Inflação e política fiscal
+::::: grid
+::: card
+### 📊 Pib
 
-Texto da notícia aqui.
+Análises sobre PIB, inflação e política fiscal.\
+[Leia mais →](macroeconomia.qmd)
+:::
+
+::: card
+### 🏛️ Política publica
+
+Decisões do Congresso e impacto econômico.\
+[Leia mais →](politica.qmd)
+:::
+:::::

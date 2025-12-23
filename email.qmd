@@ -1,3 +1,5 @@
 ---
 title: "Receba no E-mail"
 ---
+
+preencha aqui e receba atualizações direto no seu email
