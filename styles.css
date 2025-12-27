@@ -1,0 +1,94 @@
+.navbar-brand img {
+  max-height: 40px;
+}
+
+
+.membro {
+  max-width: 220px;
+  margin: 0 auto 40px auto;
+  text-align: center;
+}
+
+.membro img {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.membro p {
+  margin: 0;
+}
+
+.newsletter-item {
+  padding: 25px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.newsletter-item img {
+  width: 100%;
+  max-width: 220px;
+  border-radius: 8px;
+}
+
+.newsletter-item:last-child {
+  border-bottom: none;
+}
+
+.newsletter-item .columns {
+  align-items: center;
+}
+
+/* Remove a estilização padrão de link para o bloco da newsletter */
+.newsletter-link {
+  text-decoration: none !important;
+  color: inherit !important;
+  display: block;
+  transition: background-color 0.3s ease; /* Efeito suave ao passar o mouse */
+  border-radius: 10px;
+}
+
+/* Container principal da newsletter */
+.newsletter-container {
+  max-width: 900px; /* Impede que o texto estique demais em telas grandes */
+  margin: 0 auto;
+}
+
+/* Organização de cada linha (Artigo) */
+.newsletter-item {
+  display: flex;
+  align-items: center; /* Centraliza verticalmente foto, texto e data */
+  gap: 30px;           /* Cria o espaço perfeito entre as colunas */
+  padding: 25px 0;
+  border-bottom: 1px solid #eee; /* Linha divisória discreta */
+}
+
+/* Coluna da Imagem */
+.newsletter-image {
+  flex: 0 0 180px; /* Largura fixa para a imagem não variar */
+}
+
+.newsletter-image img {
+  width: 100%;
+  border-radius: 0px; /* Cantos arredondados elegantes */
+}
+
+/* Coluna do Texto (Centro) */
+.newsletter-content {
+  flex: 2; /* Ocupa a maior parte do espaço */
+}
+
+.newsletter-content h3 {
+  margin-top: 0;
+  color: #2c3e50;
+}
+
+/* Coluna do Autor/Data (Direita) */
+.newsletter-meta {
+  flex: 1;
+  text-align: right; /* Alinha o autor para a direita */
+  font-size: 0.9rem;
+  color: #666;
+  min-width: 150px;
+}
